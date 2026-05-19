@@ -16,4 +16,4 @@
 
 # ЛР 03. Модульне тестування 
 
-#### Посилання на :[Звіт покриття коду] (./LAB-3_Unit%20Testing/Lab-3%20OPI/CoverageReport/index.html)
+#### Посилання на :[Звіт покриття коду](https://github.com/3bembe1/OPI-PointBlank/blob/main/LAB-3_Unit%20Testing/Lab-3%20OPI/CoverageReport/index.html)
